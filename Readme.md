@@ -18,18 +18,17 @@ cd Masterpiece
 unzip Masterpiece-HTML5-Shipping.zip
 ```
 3- Run the web server:
- - Windows (Unreal Engine's web server):
+ - Windows (Just run the Unreal Engine's web server):
 	```
-	Just run Masterpiece.exe
+	Masterpiece.exe
 	```
- - Or if you use another OS (Python's http server):
+ - Or if you use another OS (Using Python's http server):
 	```
 	python3 -m http.server 8000
 	```
 4- Navigate to:
-```
- http://localhost:8000/Masterpiece-HTML5-Shipping.html
-```
+ [http://localhost:8000/Masterpiece-HTML5-Shipping.html](http://localhost:8000/Masterpiece-HTML5-Shipping.html)
+
 Click on **FullScreen** and enjoy playing.
 
 ## Game Demo
